@@ -18,7 +18,7 @@ Proyek ini merupakan **proyek jangka panjang selama satu semester** yang akan di
 ## 📄 Referensi
 
 * **Paper:** [IEEE Xplore](https://ieeexplore.ieee.org/document/11053763)
-* **Dataset:** UCI Heart Disease Dataset
+* **Dataset:** [UCI Heart Disease Dataset](https://www.kaggle.com/datasets/hamnawaseem112222222/uci-heart-disease-dataset)
 
 ## 🔬 Project Scope
 
