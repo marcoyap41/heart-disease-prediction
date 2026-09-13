@@ -23,7 +23,3 @@ Proyek ini merupakan **proyek jangka panjang selama satu semester** yang akan di
 ## Project Scope
 
 Proyek mencakup proses **pemahaman dataset, analisis metodologi, implementasi eksperimen, evaluasi, serta analisis hasil** untuk mereplikasi penelitian asli. Seiring berjalannya semester, cakupan proyek akan dikembangkan dan disesuaikan dengan tahapan penelitian dan tugas yang diberikan.
-
----
-
-**Status:** 🚧 In Progress
