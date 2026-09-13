@@ -1,6 +1,6 @@
 # heart-disease-prediction
 ## [Kelompok 5] Tugas Data Science KOM: Replikasi Metodologi Artikel Penerapan Sains Data
-## 👥 Anggota
+## Anggota
 
 | Nama                    | NIM                |
 | ----------------------- | ------------------ |
@@ -15,12 +15,12 @@ Proyek data science untuk **mereplikasi dan menganalisis metodologi penelitian**
 
 Proyek ini merupakan **proyek jangka panjang selama satu semester** yang akan dikembangkan secara bertahap menuju replikasi metodologi penelitian secara menyeluruh.
 
-## 📄 Referensi
+## Referensi
 
 * **Paper:** [IEEE Xplore](https://ieeexplore.ieee.org/document/11053763)
 * **Dataset:** [UCI Heart Disease Dataset](https://www.kaggle.com/datasets/hamnawaseem112222222/uci-heart-disease-dataset)
 
-## 🔬 Project Scope
+## Project Scope
 
 Proyek mencakup proses **pemahaman dataset, analisis metodologi, implementasi eksperimen, evaluasi, serta analisis hasil** untuk mereplikasi penelitian asli. Seiring berjalannya semester, cakupan proyek akan dikembangkan dan disesuaikan dengan tahapan penelitian dan tugas yang diberikan.
 
