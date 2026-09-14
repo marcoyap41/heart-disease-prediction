@@ -18,7 +18,9 @@ Proyek data science untuk **mereplikasi dan menganalisis metodologi penelitian**
 > **Heart Disease Prediction Using a Hybrid Feature Selection and Ensemble Learning Approach**
 
 Proyek ini merupakan **proyek jangka panjang selama satu semester** yang akan dikembangkan secara bertahap menuju replikasi metodologi penelitian secara menyeluruh.
+
 Repositori ini berisi kode dan laporan analisis data untuk mereplikasi dan mengaudit eksperimen *machine learning* dari jurnal **"Heart Disease Prediction Using a Hybrid Feature Selection and Ensemble Learning Approach"** (Gupta et al., 2025).
+
 Proyek ini disusun untuk mendiagnosis penyakit jantung dengan memadukan algoritma *nature-inspired* (Genetic Algorithm & Cuckoo Search) untuk seleksi fitur, dan model *ensemble* (Random Forest & 1D-CNN) untuk klasifikasi, disertai dengan **koreksi metodologis** untuk mencegah *data leakage*.
 
 ---
