@@ -1,0 +1,47 @@
+row_id,jenis,prob,p_label,salah_3_repeat,rf_vs_cnn,imputasi/outlier,pendorong,indikasi
+145,FN,0.05526845299245156,0.05526845299245156,True,False,False,"thal_3=1 (-0.08), ca=0 (-0.08), cp_3=1 (-0.06)",label? (ke Anggota 3)
+32,FN,0.09690449110318705,0.09690449110318705,True,False,False,"cp_3=1 (-0.09), slope=1 (-0.07), thal_3=1 (-0.06)",label? (ke Anggota 3)
+22,FN,0.13842173051281073,0.13842173051281073,True,False,False,"cp_2=1 (-0.11), thal_3=1 (-0.07), ca=0 (-0.05)",label? (ke Anggota 3)
+199,FN,0.15564203264009321,0.15564203264009321,True,False,False,"cp_1=1 (-0.20), ca=0 (-0.07), cp_4=0 (-0.06)",label? (ke Anggota 3)
+301,FN,0.16145853302681568,0.16145853302681568,True,False,False,"cp_2=1 (-0.12), sex=0 (-0.10), thal_3=1 (-0.08)",label? (ke Anggota 3)
+232,FN,0.1652034077908575,0.1652034077908575,True,False,False,"cp_3=1 (-0.10), thal_3=1 (-0.09), chol=149 (-0.08)",label? (ke Anggota 3)
+278,FN,0.16641919215008155,0.16641919215008155,True,False,False,"cp_2=1 (-0.18), cp_4=0 (-0.09), thal_3=1 (-0.07)",label? (ke Anggota 3)
+261,FN,0.16724837982316607,0.16724837982316607,True,False,False,"cp_2=1 (-0.09), sex=0 (-0.08), thal_3=1 (-0.07)",label? (ke Anggota 3)
+141,FN,0.1780195522707762,0.1780195522707762,True,False,False,"cp_1=1 (-0.32), cp_4=0 (-0.08), ca=0 (-0.08)",label? (ke Anggota 3)
+274,FN,0.18342488374292237,0.18342488374292237,True,False,False,"cp_1=1 (-0.11), thal_3=1 (-0.08), slope=1 (-0.06)",label? (ke Anggota 3)
+69,FN,0.20957150471579167,0.20957150471579167,True,False,False,"thal_3=1 (-0.10), cp_3=1 (-0.08), ca=0 (-0.06)",atipikal
+294,FN,0.22436825255143272,0.22436825255143272,True,False,False,"ca=0 (-0.11), thal_3=1 (-0.08), sex=0 (-0.08)",atipikal
+124,FN,0.22454851258008443,0.22454851258008443,True,False,False,"cp_1=1 (-0.28), cp_4=0 (-0.08), thal_3=1 (-0.06)",atipikal
+188,FN,0.24069429788085603,0.24069429788085603,True,False,True,"cp_2=1 (-0.21), cp_4=0 (-0.11), st_severity=0 (-0.06)",data
+214,FN,0.2535924890760294,0.2535924890760294,True,False,False,"thal_3=1 (-0.09), slope=1 (-0.08), st_severity=0 (-0.05)",atipikal
+44,FN,0.2595171969883221,0.2595171969883221,True,False,False,"sex=0 (-0.14), thal_3=1 (-0.08), ca=0 (-0.07)",atipikal
+184,FN,0.2608623470074123,0.2608623470074123,True,False,False,"sex=0 (-0.11), thal_3=1 (-0.08), ca=0 (-0.07)",atipikal
+16,FN,0.2661050970560497,0.2661050970560497,True,False,False,"cp_2=1 (-0.20), ca=0 (-0.08), cp_4=0 (-0.06)",atipikal
+298,FN,0.2775805816150357,0.2775805816150357,True,True,False,"cp_1=1 (-0.29), ca=0 (-0.07), cp_4=0 (-0.05)",model
+266,FN,0.2875541808064451,0.2875541808064451,True,False,True,"thal_3=1 (-0.09), ca=0 (-0.07), fbs=1 (-0.04)",data
+259,FN,0.30122398393055827,0.30122398393055827,True,False,False,"cp_2=1 (-0.13), slope=1 (-0.07), ca=0 (-0.07)",atipikal
+211,FN,0.30663942107834763,0.30663942107834763,True,False,False,"cp_1=1 (-0.33), cp_4=0 (-0.07), ca=0 (-0.07)",atipikal
+209,FN,0.3377402034616962,0.3377402034616962,True,False,False,"ca=0 (-0.11), thal_3=1 (-0.09), sex=0 (-0.08)",atipikal
+74,FN,0.35376543021693674,0.35376543021693674,True,False,False,"slope=1 (-0.08), thal_3=1 (-0.06), st_severity=0 (-0.04)",ambigu
+52,FN,0.4155236497982261,0.4155236497982261,True,False,False,"thal_3=1 (-0.09), slope=1 (-0.08), st_severity=0 (-0.05)",ambigu
+268,FN,0.4248411861277118,0.4248411861277118,True,True,False,"st_severity=0 (-0.07), thalach=181 (-0.06), ca=0 (-0.05)",model
+245,FN,0.471572263953612,0.471572263953612,True,True,True,"thal_3=1 (-0.09), ca=0 (-0.07), restecg_0=1 (-0.04)",data
+290,FN,0.4752756390989441,0.4752756390989441,True,True,False,"cp_3=1 (-0.10), ca=0 (-0.06), chol=212 (-0.04)",model
+12,FN,0.48355026512416366,0.48355026512416366,False,True,False,"cp_3=1 (-0.13), thal_6=1 (-0.08), cp_4=0 (-0.05)",model
+252,FP,0.9375667894623942,0.062433210537605754,True,False,False,"thal_3=0 (+0.12), hr_reserve=-51 (+0.07), exang=1 (+0.06)",label? (ke Anggota 3)
+171,FP,0.8821809940116921,0.11781900598830786,True,False,False,"thal_3=0 (+0.10), hr_reserve=-56 (+0.08), thalach=111 (+0.04)",label? (ke Anggota 3)
+176,FP,0.8083534907434404,0.19164650925655957,True,False,False,"ca=3 (+0.18), thal_3=0 (+0.13), cp_3=0 (+0.05)",label? (ke Anggota 3)
+218,FP,0.720925010049466,0.27907498995053404,True,False,False,"ca=2 (+0.16), st_severity=4 (+0.07), cp_3=0 (+0.04)",atipikal
+165,FP,0.6661811876542789,0.3338188123457211,True,False,False,"thal_3=0 (+0.13), exang=1 (+0.07), sex=1 (+0.05)",atipikal
+80,FP,0.6602796475911878,0.33972035240881215,True,True,False,"st_severity=6 (+0.06), exang=1 (+0.04), cp_4=1 (+0.04)",model
+250,FP,0.6569587514572537,0.3430412485427463,True,False,False,"thal_3=0 (+0.09), exang=1 (+0.06), hr_reserve=-37 (+0.04)",atipikal
+150,FP,0.6187650358554014,0.38123496414459856,False,False,False,"thal_3=0 (+0.14), thal_7=1 (+0.05), trestbps=152 (+0.05)",ambigu
+144,FP,0.6088667779239183,0.3911332220760817,True,False,False,"thal_3=0 (+0.13), exang=1 (+0.06), thal_7=1 (+0.05)",ambigu
+130,FP,0.5763512517988068,0.42364874820119325,True,False,False,"thal_3=0 (+0.15), thal_7=1 (+0.05), sex=1 (+0.05)",ambigu
+90,FP,0.567314939093344,0.43268506090665604,True,True,False,"sex=1 (+0.05), cp_3=0 (+0.05), cp_4=1 (+0.05)",model
+275,FP,0.563425417720657,0.436574582279343,True,True,False,"thal_3=0 (+0.11), trestbps=170 (+0.07), thal_7=1 (+0.04)",model
+59,FP,0.5453803626839648,0.45461963731603516,False,True,False,"hr_reserve=-44 (+0.08), ca=1 (+0.07), thalach=125 (+0.04)",model
+51,FP,0.5374285873678541,0.46257141263214585,True,False,False,"thal_3=0 (+0.11), cp_3=0 (+0.05), sex=1 (+0.05)",ambigu
+159,FP,0.5290029157990033,0.47099708420099673,True,True,False,"thal_3=0 (+0.12), ca=1 (+0.10), thal_7=1 (+0.07)",model
+58,FP,0.5206275305797144,0.47937246942028555,True,True,False,"slope=3 (+0.11), ca=1 (+0.10), restecg_0=0 (+0.04)",model
+183,FP,0.5095981471624571,0.4904018528375429,True,True,True,"st_severity=12.6 (+0.12), thal_3=0 (+0.09), slope=3 (+0.04)",data
